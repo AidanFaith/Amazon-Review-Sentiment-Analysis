@@ -1,4 +1,4 @@
-This repo houses my sentiment analysis practice project following the tutorial by Rob Mulla:
+This repo houses a sentiment analysis practice project following the tutorial by Rob Mulla:
 
 Tutorial Link: https://www.youtube.com/watch?v=QpzMWQvxXWk
 
